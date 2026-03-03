@@ -4,8 +4,6 @@ Renders Live2D `.moc3` model directories into labeled training data:
 composite images, segmentation masks (22 body region IDs), draw-order maps,
 and 2D joint position JSON.
 
-Completely self-contained — no external pipeline dependencies.
-
 ## Setup
 
 **1. Python dependencies** (Python 3.10+):
